@@ -1,1 +1,2 @@
-alert('XSS by Tayyab' + document.domain);
+alert('XSS by Tayyab --- ' + document.domain);
+
